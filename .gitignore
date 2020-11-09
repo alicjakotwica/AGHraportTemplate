@@ -11,7 +11,7 @@
 *.cb
 *.cb2
 .*.lb
-*.pdf
+img/*eps-converted-to.pdf
 raport.pdf
 
 ## Intermediate documents:
